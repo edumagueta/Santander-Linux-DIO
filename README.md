@@ -1,2 +1,7 @@
-# Santander-Linux-DIO
-Desafios de LINUX do bootcamp da DIO em parceria com Santander
+# Repositório Bootcamp DIO - Santander
+
+Nesse repositório será destinado aos desafios do bootcamp da DIO em parceria com Santander.
+
+## Conteúdos vistos:
+- Linux
+- Dockers
