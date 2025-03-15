@@ -4,4 +4,9 @@ Nesse repositório será destinado aos desafios do bootcamp da DIO em parceria c
 
 ## Conteúdos vistos:
 - Linux
+- Apache
 - Dockers
+
+## Agradecimentos
+
+Créditos ao professor Denilson Bonatti, DIO e Santander por esse bootcamp.
