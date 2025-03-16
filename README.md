@@ -6,6 +6,7 @@ Nesse repositório será destinado aos desafios do bootcamp da DIO em parceria c
 - Linux
 - Apache
 - Dockers
+- Nginx
 
 ## Agradecimentos
 
